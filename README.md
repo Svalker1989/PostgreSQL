@@ -59,7 +59,7 @@ Ritchie Blackmore	Russia
 вычислите количество записей для каждой таблицы.  
 Приведите в ответе:  
 - запросы,  
-- результаты их выполнения.
+- результаты их выполнения.  
 Наполняем orders  
 ![](https://github.com/Svalker1989/PostgreSQL/blob/main/Z3_2.PNG)  
 Наполняем clients  
